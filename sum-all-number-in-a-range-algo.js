@@ -14,3 +14,5 @@ function sumAll(arr) {
 }
 
 console.log(sumAll([5, 10]));
+
+// OUTPUT - 45
